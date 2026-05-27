@@ -1,0 +1,6 @@
+{
+  "name": "Invisible Pressure Theory Simulator",
+  "description": "An interactive simulation environment for exploring the spatial wavefunction dynamics, thermal gradients, and event probability collapse of the Invisible Pressure Theory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
